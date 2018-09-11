@@ -1,0 +1,19 @@
+@import "../../node_modules/normalize.css/normalize.css";
+
+
+@import "./utils/_01-breakpoints.scss";
+@import "./utils/_02-colors.scss";
+@import "./utils/_03-vars.scss";
+@import "./utils/_04-type.scss";
+@import "./utils/_05-defaults.scss";
+@import "./utils/_06-images.scss";
+
+
+@import "./blocks/_hamburger.scss";
+@import "./blocks/_home.scss";
+@import "./blocks/_footer.scss";
+@import "./blocks/_header.scss";
+@import "./blocks/_allAds.scss";
+@import "blocks/_ad-detail.scss";
+
+

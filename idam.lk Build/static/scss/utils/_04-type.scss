@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('/static/fonts/fonts/MyriadPro-Regular.woff2') format('woff2'),
+    url('/static/fonts/fonts/MyriadPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nirmala UI';
+    src: url('/static/fonts/fonts/NirmalaUI.woff2') format('woff2'),
+    url('/static/fonts/fonts/NirmalaUI.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.myriadPro{
+    font-family: 'Myriad Pro';
+}
+.nirmala{
+    font-family: 'Nirmala UI';
+}
+

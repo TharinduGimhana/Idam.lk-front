@@ -1,0 +1,168 @@
+.allAds{
+  .add-top-margin{
+    margin-top: 20px;
+  }
+  .search-block{
+    .col-md-6{
+      padding: 0px;
+    }
+    .col-md-3{
+      padding: 0px;
+    }
+  }
+  form{
+    .searchTerm {
+      float: left;
+      width: 100%;
+      padding: 5px;
+      height: 35px;
+      border-radius: 5px;
+      outline: none;
+      border: 1px solid $green1;
+      background: white;
+      &::-moz-placeholder{
+        font-weight: 900;
+        color: $blue1;
+      }
+      &::-webkit-input-placeholder{
+        font-weight: 900;
+        color: $blue1;
+      }
+    }
+
+    .searchTerm:focus{
+      color: #00B4CC;
+    }
+    .searchButton {
+      position: absolute;
+      right: 0px;
+      width: auto;
+      height: 35px;
+      background: $green1;
+      text-align: center;
+      color: white;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 10pt;
+      @extend .nirmala;
+      text-transform: uppercase;
+      border:none;
+      padding: 0px 40px;
+      &:hover{
+        background: $green2;
+        @include transition(0.5s);
+      }
+    }
+  }
+  .btn-custom{
+    padding: 5px 0px;
+    width: 200px;
+    text-align: center;
+    a{
+      color:white;
+      font-size: 13pt;
+      @extend .nirmala;
+      padding: 10px 20px;
+      text-decoration: none;
+    }
+  }
+
+  .filer-area{
+
+  }
+  //ad css start
+  .col-md-2{
+    margin-top: 0px;
+    margin-top: 0px;
+  }
+  .verticle-advertisement{
+    min-height: 600px !important;
+  }
+  .ad{
+    border-left: 1px solid $grey1;
+    overflow: hidden;
+    padding-left: 30px;
+    position: relative;
+
+    .img{
+      padding: 10px 0px;
+      background: $grey1;
+      min-height: 200px;
+    }
+    .details{
+      margin-top: 20px;
+      @extend .nirmala;
+      .top-paid,.bounse,.member{
+        position: absolute;
+        background: $blue1;
+        color: white;
+        right:0px;
+        padding: 0px 5px;
+        span{
+          font-size: 10pt;
+        }
+      }
+      .bounse{
+        border: 1px solid $blue1;
+        background: none;
+        color: $blue1;
+      }
+      .member{
+        left: 15px;
+        margin-top: -20px;
+        padding: 0 5px;
+        display: inline-table;
+        span{
+          font-size: 9pt;
+        }
+
+      }
+      .title{
+        span{
+          font-size: 12pt;
+          font-weight: 900;
+        }
+      }
+      .detail{
+        span{
+          font-size: 12pt;
+        }
+        hr{
+          margin-top: 15px;
+          margin-bottom: 15px;
+          border-top: 2px solid #eee;
+        }
+        p{
+          font-size: 10pt;
+        }
+        strong{
+          font-size: 14pt;
+          font-weight: 900;
+        }
+      }
+      .hours{
+        position: absolute;
+        right: 0px;
+        font-weight: 900;
+        font-size: 11px;
+        bottom: -60px;
+      }
+    }
+    .hr-line{
+      hr{
+        border-top: 2px solid #eee;
+      }
+    }
+  }
+}
+.ad-background{
+  background: $background;
+}
+
+.ad-edit{
+  border-left: none !important;
+  padding-left: 0px !important;
+}
+
+
+

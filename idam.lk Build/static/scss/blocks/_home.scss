@@ -1,0 +1,153 @@
+.adverticemnt{
+  background: $blue1;
+  text-align: center;
+  margin: 20px 0px;
+  min-height: 80px !important;
+  h1{
+    @extend .nirmala;
+    color: white;
+    text-transform: uppercase;
+  }
+}
+
+.home{
+  .container{
+    padding: 0px !important;
+  }
+  .lang{
+    .lang-type{
+      display: inline-block;
+      float: left;
+      padding: 5px 10px;
+      cursor: pointer;
+      span{
+        font-size: 10pt;
+      }
+      &:first-child{
+        border: 2px solid $blue1;
+        border-right:none;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        &:hover{
+          color:white;
+          background: $blue1;
+          @include transition(0.5s);
+        }
+      }
+      &:last-child{
+        border: 2px solid $green1;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        &:hover{
+          color:white;
+          background: $green1;
+          @include transition(0.5s);
+        }
+      }
+    }
+  }
+  .home-header{
+    margin-top: 25px;
+    .logo{
+      img{
+        width:350px;
+      }
+      h2{
+        @extend .myriadPro;
+        color:#3E3E3E;
+        margin-top:0px;
+      }
+    }
+  }
+  .left-pannel{
+    border-right: 1px solid $green1;
+    .district{
+      h1{
+        color:#3E3E3E;
+        @extend .nirmala;
+      }
+    }
+
+    ul{
+      columns: 2;
+      -webkit-columns: 2;
+      -moz-columns: 2;
+      padding-left: 0px;
+      li{
+        list-style: none;
+        a{
+          text-decoration: none;
+          color: #3E3E3E;
+          font-size: 13pt;
+          @extend .myriadPro;
+          &:hover{
+            color: $green1;
+            @include transition(0.3s);
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
+  .right-pannel{
+    text-align: center;
+    .custom-row{
+      .block{
+        display: inline-block;
+        padding: 10px;
+        img{
+          width: 50px;
+          display: inline-block;
+        }
+        span{
+          font-size: 11pt;
+          @extend .myriadPro;
+        }
+      }
+      p{
+        font-size: 13pt;
+        @extend .nirmala;
+      }
+      .btn-custom{
+        padding: 10px 0px;
+        width: 200px;
+        text-align: center;
+        a{
+          color:white;
+          font-size: 13pt;
+          @extend .nirmala;
+          padding: 10px 20px;
+          text-decoration: none;
+        }
+      }
+
+    }
+    .add-cus-margin{
+      margin: 25px 0px;
+    }
+
+  }
+  .bottom-para{
+    text-align: center;
+    font-size: 13pt;
+    @extend .myriadPro;
+    margin-top:25px;
+  }
+
+
+}
+
+.btn-sell{
+  background: $blue1;
+  &:hover{
+    background: $blue2;
+    @include transition(0.5s);
+  }
+}
+.btn-buy{
+  background: $green1;
+  &:hover{
+    background: $green2;
+    @include transition(0.5s);
+  }
+}

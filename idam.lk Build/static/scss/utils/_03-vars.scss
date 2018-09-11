@@ -1,0 +1,54 @@
+/*------------------------------------*\
+  #MIXINS
+\*------------------------------------*/
+
+
+
+
+/*------------------------------------*\
+  #TRANSITIONS
+\*------------------------------------*/
+@mixin transition($type: all, $duration: 200ms) {
+  -webkit-transition: $type $duration;
+  -moz-transition: $type $duration;
+  -ms-transition: $type $duration;
+  -o-transition: $type $duration;
+  transition: $type $duration;
+}
+
+
+.transition {
+  @include transition();
+}
+
+
+
+/*------------------------------------*\
+  #MEDIA QUERIES
+\*------------------------------------*/
+@mixin media($size1, $size2: min) {
+  @if $size2 == min {
+    @media only screen and (min-width: $size1 + 1) {
+      @content;
+    }
+  } @else if $size2 == max {
+    @media only screen and (max-width: $size1) {
+      @content;
+    }
+  } @else {
+    @media only screen and (min-width: $size1) and (max-width: $size2) {
+      @content;
+    }
+  }
+}
+
+
+
+/*------------------------------------*\
+  #BORDER RADIUS
+\*------------------------------------*/
+@mixin borderradius($radius:4px) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+}

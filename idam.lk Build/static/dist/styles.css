@@ -1,0 +1,4690 @@
+ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0;}article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block}audio:not([controls]){display:none;height:0}progress{vertical-align:baseline}[hidden],template{display:none}a{background-color:transparent;-webkit-text-decoration-skip:objects}a:active,a:hover{outline-width:0}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit;font-weight:bolder}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}svg:not(:root){overflow:hidden}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}button,input,optgroup,select,textarea{font:inherit;margin:0}optgroup{font-weight:700}button,input{overflow:visible}button,select{text-transform:none}[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-input-placeholder{color:inherit;opacity:.54}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}.transition,a{transition:all .2s}@font-face{font-family:Myriad Pro;src:url("/static/fonts/fonts/MyriadPro-Regular.woff2") format("woff2"),url("/static/fonts/fonts/MyriadPro-Regular.woff") format("woff");font-weight:400;font-style:normal}@font-face{font-family:Nirmala UI;src:url("/static/fonts/fonts/NirmalaUI.woff2") format("woff2"),url("/static/fonts/fonts/NirmalaUI.woff") format("woff");font-weight:400;font-style:normal}.bottom-footer strong,.home .bottom-para,.home .home-header .logo h2,.home .left-pannel ul li a,.home .right-pannel .custom-row .block span,.myriadPro,footer .footer-block .footer-title h3,footer .footer-block .links a,header .lang .lang-type span,header .links .link a{font-family:Myriad Pro}.adverticemnt h1,.allAds .ad .details,.allAds .btn-custom a,.allAds form .searchButton,.home .left-pannel .district h1,.home .right-pannel .custom-row .btn-custom a,.home .right-pannel .custom-row p,.nirmala,body{font-family:Nirmala UI}body{background:#f0f0f0;font-size:14px;line-height:20px;color:#3e3e3e}h1,h2,h3,h4,h5,h6{margin-bottom:20px!important}h1{font-size:19pt}h2{font-size:16pt}h3{font-size:13pt}a{color:#000}a:hover{color:#009}.slideshow ul{list-style:none;list-style-type:none;padding:0;margin:0;overflow:hidden}.slideshow ul li{background:#f1f1f1;padding:4rem 2rem}.slideshow ul li h3{text-align:center;max-width:90%}.margin-auto{margin:auto;display:table}.float-right{float:right!important}.remove-top-margin{margin-top:0}.add-top-margin{margin-top:20px!important;}.image{display:inline-block;width:100%}.image img{transition:all .6s}.image--to-load{display:inline-block;position:relative}.image--to-load img{opacity:0;position:absolute;top:0;left:0;width:100%;height:100%}.image__caption,.image__credit{display:none}.image__space{width:100%;display:block}.loaded .sk-fading-circle{display:none}.sk-fading-circle{margin:-10px 0 0 -10px;width:20px;height:20px;position:absolute;top:50%;left:50%}.sk-fading-circle .sk-circle{width:100%;height:100%;position:absolute;left:0;top:0}.sk-fading-circle .sk-circle:before{content:"";display:block;margin:0 auto;width:15%;height:15%;background-color:#e1e1e1;border-radius:100%;animation:sk-circleFadeDelay 1.2s infinite ease-in-out both}.sk-fading-circle .sk-circle2{transform:rotate(30deg)}.sk-fading-circle .sk-circle3{transform:rotate(60deg)}.sk-fading-circle .sk-circle4{transform:rotate(90deg)}.sk-fading-circle .sk-circle5{transform:rotate(120deg)}.sk-fading-circle .sk-circle6{transform:rotate(150deg)}.sk-fading-circle .sk-circle7{transform:rotate(180deg)}.sk-fading-circle .sk-circle8{transform:rotate(210deg)}.sk-fading-circle .sk-circle9{transform:rotate(240deg)}.sk-fading-circle .sk-circle10{transform:rotate(270deg)}.sk-fading-circle .sk-circle11{transform:rotate(300deg)}.sk-fading-circle .sk-circle12{transform:rotate(330deg)}.sk-fading-circle .sk-circle2:before{animation-delay:-1.1s}.sk-fading-circle .sk-circle3:before{animation-delay:-1s}.sk-fading-circle .sk-circle4:before{animation-delay:-.9s}.sk-fading-circle .sk-circle5:before{animation-delay:-.8s}.sk-fading-circle .sk-circle6:before{animation-delay:-.7s}.sk-fading-circle .sk-circle7:before{animation-delay:-.6s}.sk-fading-circle .sk-circle8:before{animation-delay:-.5s}.sk-fading-circle .sk-circle9:before{animation-delay:-.4s}.sk-fading-circle .sk-circle10:before{animation-delay:-.3s}.sk-fading-circle .sk-circle11:before{animation-delay:-.2s}.sk-fading-circle .sk-circle12:before{animation-delay:-.1s}@keyframes sk-circleFadeDelay{0%,39%,to{opacity:0}40%{opacity:1}}.adverticemnt{text-align:center;margin:20px 0;min-height:90px!important}.adverticemnt h1{color:#fff;text-transform:uppercase}.home .container{padding:0!important;}.home .lang .lang-type{display:inline-block;float:left;padding:5px 10px;cursor:pointer}.home .lang .lang-type span{font-size:10pt}.home .lang .lang-type:first-child{border:2px solid #26addd;border-right:none;border-top-left-radius:10px;border-bottom-left-radius:10px}.home .lang .lang-type:first-child:hover{color:#fff;background:#26addd;transition:.5s .2s}.home .lang .lang-type:last-child{border:2px solid #8bba19;border-top-right-radius:10px;border-bottom-right-radius:10px}.home .lang .lang-type:last-child:hover{color:#fff;background:#8bba19;transition:.5s .2s}.home .home-header{margin-top:25px}.home .home-header .logo img{width:350px}.home .home-header .logo h2{color:#3e3e3e;margin-top:0}.home .left-pannel{border-right:1px solid #8bba19}.home .left-pannel .district h1{color:#3e3e3e}.home .left-pannel ul{columns:2;-webkit-columns:2;-moz-columns:2;padding-left:0}.home .left-pannel ul li{list-style:none}.home .left-pannel ul li a{text-decoration:none;color:#3e3e3e;font-size:13pt}.home .left-pannel ul li a:hover{color:#8bba19;transition:.3s .2s;text-decoration:underline}.home .right-pannel{text-align:center}.home .right-pannel .custom-row .block{display:inline-block;padding:10px}.home .right-pannel .custom-row .block img{width:50px;display:inline-block}.home .right-pannel .custom-row .block span{font-size:11pt}.home .right-pannel .custom-row p{font-size:13pt}.home .right-pannel .custom-row .btn-custom{padding:10px 0;width:200px;text-align:center}.home .right-pannel .custom-row .btn-custom a{color:#fff;font-size:13pt;padding:10px 20px;text-decoration:none}.home .right-pannel .add-cus-margin{margin:25px 0}.home .bottom-para{text-align:center;font-size:13pt;margin-top:25px}.btn-sell{background:#26addd}.btn-sell:hover{background:#289fdb;transition:.5s .2s}.btn-buy{background:#8bba19}.btn-buy:hover{background:#3cb71a;transition:.5s .2s}footer{border-top:3px solid #8bba19;margin-top:30px;background:#e5e5e5}footer .footer-block .links a{font-size:13pt;display:block;color:#3e3e3e}footer .footer-block .links a:hover{color:#26addd;text-decoration:none;transition:.3s .2s}.bottom-footer{margin-top:50px;padding-bottom:20px;text-align:center}.bottom-footer strong{font-size:13pt;color:#3e3e3e;font-weight:100}header{background:#8bba19}header .row{padding:10px 0}header .col-md-10{padding:0!important}header .links,header .logo{display:inline-block;float:left}header .logo img{min-width:150px}header .links{cursor:pointer}header .links .link{display:inline-block;float:left;padding:10px}header .links .link a{text-decoration:none}header .links .link a span{font-size:10pt;color:#fff}header .links .link:hover a{border-bottom:1px solid #fff;padding-bottom:2px}header .logo{border-right:1px solid #fff;padding-right:10px}header .lang{border:1px solid #fff;border-radius:5px;margin-top:10px;display:inline-block;float:right}header .lang .lang-type{cursor:pointer;display:inline-block;float:left;padding:0 5px}header .lang .lang-type span{font-size:7pt;color:#fff}header .lang .lang-type:first-child{border-right:1px solid #fff}header .lang .lang-type:hover{background:#fff;transition:.5s .2s}header .lang .lang-type:hover span{color:#26addd;transition:.5s .2s}.allAds .search-block .col-md-3,.allAds .search-block .col-md-6{padding:0 }.allAds form .searchTerm{float:left;width:100%;padding:5px;height:35px;border-radius:5px;outline:none;border:1px solid #8bba19;background:#fff}.allAds form .searchTerm::-moz-placeholder{font-weight:900;color:#26addd}.allAds form .searchTerm::-webkit-input-placeholder{font-weight:900;color:#26addd}.allAds form .searchTerm:focus{color:#00b4cc}.allAds form .searchButton{position:absolute;right:0;width:auto;height:35px;background:#8bba19;text-align:center;color:#fff;border-radius:5px;cursor:pointer;font-size:10pt;text-transform:uppercase;border:none;padding:0 40px}.allAds form .searchButton:hover{background:#3cb71a;transition:.5s .2s}.allAds .btn-custom{padding:5px 0;width:200px;text-align:center}.allAds .btn-custom a{color:#fff;font-size:13pt;padding:10px 20px;text-decoration:none}.allAds .col-md-2{margin-top:0}.allAds .verticle-advertisement{min-height:600px!important}.allAds .ad{border-left:1px solid #aaa;overflow:hidden;padding-left:30px;position:relative}.allAds .ad .img{padding:10px 0;background:#aaa;min-height:200px;width:200px;}.allAds .ad .details{margin-top:0px;margin-left:10px;}.allAds .ad .details .bounse,.allAds .ad .details .member,.allAds .ad .details .top-paid{position:absolute;background:#26addd;color:#fff;right:0;padding:0 5px}.allAds .ad .details .bounse span,.allAds .ad .details .member span,.allAds .ad .details .top-paid span{font-size:10pt}.allAds .ad .details .bounse{border:1px solid #26addd;background:none;color:#26addd}.allAds .ad .details .member{left:15px;margin-top:-20px;padding:0 5px;display:inline-table}.allAds .ad .details .member span{font-size:9pt}.allAds .ad .details .title span{font-size:16pt;font-weight:900}.allAds .ad .details .detail span{font-size:16pt}.allAds .ad .details .detail hr{margin-top:15px;margin-bottom:15px;border-top:2px solid #eee}.allAds .ad .details .detail p{font-size:10pt}.allAds .ad .details .detail strong{font-size:18pt;font-weight:900}.allAds .ad .details .hours{position:absolute;right:0;font-weight:900;font-size:11px;bottom:-60px}.allAds .ad .hr-line hr{border-top:2px solid #eee}.ad-background{background:#f0f0f0}.ad-edit{border-left:none!important;padding-left:0!important}.transition,a{transition:all .2s}@font-face{font-family:Myriad Pro;src:url("/static/fonts/fonts/MyriadPro-Regular.woff2") format("woff2"),url("/static/fonts/fonts/MyriadPro-Regular.woff") format("woff");font-weight:400;font-style:normal}@font-face{font-family:Nirmala UI;src:url("/static/fonts/fonts/NirmalaUI.woff2") format("woff2"),url("/static/fonts/fonts/NirmalaUI.woff") format("woff");font-weight:400;font-style:normal}.myriadPro{font-family:Myriad Pro}.nirmala,body{font-family:Nirmala UI}body{background:#f0f0f0;font-size:14px;line-height:20px;color:#3e3e3e}h1,h2,h3,h4,h5,h6{margin-bottom:20px!important}h1{font-size:19pt}h2{font-size:16pt}h3{font-size:13pt}a{color:#000}a:hover{color:#009}.slideshow ul{list-style:none;list-style-type:none;padding:0;margin:0;overflow:hidden}.slideshow ul li{background:#f1f1f1;padding:4rem 2rem}.slideshow ul li h3{text-align:center;max-width:90%}.margin-auto{margin:auto;display:table}.float-right{float:right!important}.remove-top-margin{margin-top:0}.add-top-margin{margin-top:20px!important}
+.mySlides {display:none;}
+
+.hours{
+    margin-bottom: 20px;
+}
+
+.demo {cursor:pointer}
+
+
+.navbar {
+    padding-top: 20px;
+  }
+
+
+
+
+
+
+.searchbox4{
+    min-width:597px;
+    border-radius:6px;
+    min-height:35px;
+    /*color:  rgb(19, 180, 230);*/
+    color: #ccc;
+    padding:3px 17px;
+    border: none;
+    background-color:white;
+    font-size:20px;
+    border: 1px solid #ccc;
+}
+.searchbox{
+    width: 100%;
+    border-radius:6px;
+    min-height:35px;
+    /*color:  rgb(19, 180, 230);*/
+    color: #ccc;
+    padding:3px 17px;
+    border: none;
+    background-color:white;
+    font-size:20px;
+    border: 1px solid #ccc;
+    margin-top: 3px;
+
+}
+textarea:focus,input:focus{
+    outline: none;
+}
+button:focus{
+    outline: none;
+}
+
+
+
+
+
+
+.panel .panel-default {
+    padding: 0px;
+    margin: 0px;
+   
+}
+
+
+.panel-heading {
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+
+}
+
+
+
+.panel-body {
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+
+.panel-title {
+   
+    text-decoration: none;
+}
+
+.panel-title a{
+    text-decoration: none;
+}
+
+
+
+.collapsebar{
+    background-color: #3cb71a;
+    text-decoration: none;
+}
+
+.collapsebar:focus{
+    text-decoration: none;
+}
+
+.collapsebar:hover{
+    text-decoration: none;
+}
+
+  
+ 
+
+  .clone{
+    background-color:#2db9fa;;
+    text-align: center;
+    padding: 1px;
+    height: auto;
+    font-weight: bold;
+    width:100%;
+    color: white !important;
+    font-weight: 700 !important;
+    border-radius: 0px !important;
+}.clone2{
+    background-color:#75eb15;
+    text-align: center;
+    color: white !important;
+    font-weight: 700 !important;
+    border-radius: 0px !important;
+    padding: 1px;
+    height: auto;
+    width:100%;
+}
+.panel-one{
+    margin-top: 20px !important;
+}
+
+
+.container{ 
+    width:74.0625% !important;
+    padding: 0px!important;
+}
+
+.s2{
+   width: 119px !important;
+   
+
+}
+
+.demo{
+    height: 75px!important;
+}
+/*.compress{
+    max-width:500px;
+}*/
+.adverts{
+    height:300px!important;
+}
+
+
+
+
+.img-add{
+    width: 200px !important;
+    height: 140px !important;
+}
+.four-p{
+    font-size: 15px !important;
+    margin-bottom: 0px;
+    line-height: 0px;
+}
+.two-p{
+    line-height: 10px !important;
+}
+.three-p{
+    line-height: 15px !important;
+}
+.plane{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+body{
+    background-color: #e8e8e8!important;
+}
+.home .container{
+    background-color: white;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+.row {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+.header .links .link a span:hover {
+    text-decoration: none !important;
+}
+
+
+
+
+
+/*..................page acc....................*/
+
+
+/*<!--search bar   -->*/
+#searchblock-acc{
+    padding-bottom: 20px !important;
+    padding-top: 20px !important;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+#searchblock-acc {
+    margin-top: 20px;
+   padding: 20px;
+    background-color: white;
+   border-radius:  5px 5px 5px 5px;
+   margin-bottom:5px;
+}
+
+
+/*.search-block{
+    padding-top: 50px;
+}*/
+
+
+
+
+	/*<!--banner-->*/
+.bgimg {
+	
+	width: 100%;
+	/* height: 450px; */
+	text-align: center;
+	vertical-align: middle;
+    background-color: white;
+    border-radius: 5px 5px 0px 0px;
+    
+}
+
+.bgimage {
+    height: 450px;
+    width: 100%;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+
+
+
+/*<!--profile-->*/
+.pdetails{
+    padding-right: 15px !important;
+    padding-left: 0px !important;
+    
+}
+.profimg {
+	height: 150px;
+	width: 210px;
+	display: inline-block;
+	float: left;
+    margin-top: 25px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+}
+#prohead{
+    margin-top: 25px;
+    font-size:24px;
+}
+.custom-userinfo{
+    background-color: white;
+    margin: 0px !important;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 0px 0px 5px 5px !important;
+}
+
+
+
+/*<!--ads -->*/
+.addbox {
+	display: inline-block;
+}
+.imgadd {
+    width: 250px;
+    height: 170px;
+	float: left;
+}
+.textadd {
+    padding-top: 20px;
+	float: right;
+	padding-left: 20px;
+}
+.onep{
+    font-size: 15px;
+    padding:0px;
+    line-height: 10px;
+}
+.twop{
+    font-size: 15px;
+    padding:0px;
+    margin:0px;
+    line-height: 10px;
+    line-height: 10px;
+}
+.addbox hr {
+	display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid #ccc;
+    margin: 1em 0;
+    padding: 0; 
+}
+.threep{
+    font-size: 15px;
+    margin-bottom: -5px;
+}
+.fourp b{
+	font-size: 20px;
+}
+#bonus{
+    float: right;
+    position: absolute;
+    margin-top: 6px;
+    padding: 5px 10px;
+    color: rgb(44, 162, 216);
+    border-radius: 10px 0px 0px 0px;
+    font-weight: bold;
+    border:2px solid  rgb(44, 162, 216);
+    font-size: 12px;
+}
+#toppaid{
+    float: right;
+    position: absolute;
+    background-color: rgb(44, 162, 216);
+    margin-top: 6px;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 10px 0px 0px 0px;
+    font-weight: bold;
+    font-size: 12px;
+}
+.boxhr hr {
+	display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid #ccc;
+    margin: 1em 0;
+    margin-right:15px;
+    margin-left: 15px;
+    
+}
+
+
+/*.textpro {
+	float: right;
+	padding: 0px;
+	margin: 0px;
+}*/
+
+/*
+.buttonfr {
+  background-color: #29CE16;
+  border: none;
+  color: white;
+  padding: 5px 30px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 15px;
+  float: right;
+}
+
+.buttonfr:hover {opacity: 1}
+*/
+
+
+
+/*
+
+.parapro{
+    text-align: justify;
+    max-width: 400px;
+}*/
+
+
+/*.side {
+    padding: 0px;
+}*/
+
+/*......................./acc page.........................*/
+
+
+
+
+/*.........................acc1 page........................*/
+
+/*<!--search bar   -->*/
+.search-block-acc1 {
+    margin-top: 20px;
+   padding: 20px;
+    background-color: white;
+   border-radius:  5px 5px 5px 5px;
+   margin-bottom:5px;
+}
+
+
+
+	/*<!--profile-->*/
+.whole {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px 5px 5px 5px;
+}
+.padder{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.prodetails {
+    margin-top: 30px;
+    margin-bottom: 15px;
+	display: inline-block;
+}
+.proimage-acc1{
+    height: 300px;
+	width: 300px;
+	display: inline-block;
+	float: left;
+	padding: 0px;
+    margin-top: 15px;
+    margin-right:30px;
+}
+
+/*gallery*/
+.w3-row-padding, .w3-row-padding>.w3-half, .w3-row-padding>.w3-third, .w3-row-padding>.w3-twothird, .w3-row-padding>.w3-threequarter, .w3-row-padding>.w3-quarter, .w3-row-padding>.w3-col {
+    padding: 0px 5px !important;
+}
+
+
+/*........................./acc1 page........................*/
+
+
+
+
+
+/*..........................index page........................*/
+
+  .btnpostprop {
+    background-color:#2db9fa;
+    border: none;
+    color: white;
+    padding: 10px 35px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+  }
+ .btnpostprop:hover {opacity: 0.6}
+
+.btnsearchprop {
+    background-color: #8bba19;
+    border: none;
+    color: white;
+    padding: 10px 40px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+  }
+  .btnsearchprop:hover {opacity: 0.6}
+  
+
+
+/*........................../index page........................*/
+
+
+
+
+/*..........................profile page........................*/
+
+	/*<!--search bar   -->*/
+   .search-block-prf{
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px 5px 5px 5px;
+    margin-bottom: 5px;
+} 
+
+/*<!--gallery-->*/
+.heading-panel{
+    background-color: white;
+    border-radius: 5px 5px 0px 0px;
+
+}
+.uppertitle{
+    padding:5px;
+    text-align:left !important; 
+}
+
+.content-profile{
+    padding-top: 10px !important;
+    text-align: justify;
+}
+#adheader{
+    padding: 0px;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 0px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+#paraprof{
+    margin-left: -15px;
+}
+#mem{
+    color: #36D8DE;
+}
+#views{
+    margin-top:10px;
+    border: none;
+    color: white;
+    background-color: rgb(19, 180, 230);
+    border-radius: 5px;
+    padding: 8px 10px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.planetwo{
+    background-color: white;
+}
+.imagegallery{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.content{
+    padding-left: 20px;
+}
+
+	/*<!--sidebar-->*/
+
+#price{
+    font-size: 24px;
+    margin-bottom: 0px;
+    margin-top:10px;
+}
+#addressbox{
+    margin-bottom: 5px;
+}
+.hrprofile{
+
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid #ccc;
+    margin: 0px 0px 5px -5px;
+    padding: 0px;
+    width:100%;
+}
+.contactinfo{
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 15px;
+}
+.custom-photo{
+    padding: 0px !important;
+}
+.member-photo{
+    
+    float: left;
+    min-height: 50px;
+    max-width: 50px;
+    margin-bottom: 15px;
+}
+.custom-memname{
+    padding: 0px !important;
+}
+#membername{
+    margin-top:30px;
+    margin-bottom: 10px;
+    float:left;
+    font-weight: bold;
+    font-size: 18px;
+}
+#contactseller{
+    margin-bottom: 0px;
+}
+#fname{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    background-color:white;
+    color: black;
+    border-radius: 4px;
+}
+
+
+
+/*<!--Similar Ads-->*/
+.plane3{
+    padding: 20px;
+    border-radius:  0px 0px 5px 5px;
+    background-color: white;
+}
+#similarads{
+    margin-left: 40px;
+    font-size: 24px;
+    font-weight: 200;
+}
+p#similarads{
+margin-left:0px;
+}
+.image-container{
+padding-left:0px !important; 
+}
+.thumb{
+    max-width: 250px;
+    max-height: 200px;
+}
+div.details{
+    padding-left: 0px;
+}
+.landtitle{
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+    line-height: 10px;
+}
+p.landtitle{
+    margin: 0px;
+    margin-top: 5px;
+}
+
+.landsubtitle{  
+    font-size: 17px;
+}
+.landhr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid #ccc;
+    margin: 0px;
+    padding: 0; 
+    width: 200px;
+}
+.landdetails{
+    margin-top:5px;
+    line-height: 15px;
+}
+.landprice{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+/*.row{
+    margin-left: 0px !important;
+    margin-right:0px !important;
+}*/
+/*........................../profile page........................*/
+
+
+
+/*...........................add page............................*/
+
+
+.search-block-add {
+    margin-top: 0px;
+   padding: 20px;
+    background-color: white;
+   border-radius:  5px 5px 5px 5px;
+   margin-bottom: -15px;
+}
+
+/*collapse bar*/
+.panel-body1 ul{
+    list-style: none;
+    /* margin: -15px; */
+    padding: 5px;
+    background-color:#2db9fa;
+    margin-bottom: 0px
+    
+}
+
+.panel-body1 ul li{
+    line-height: 30px;
+}
+
+.panel-body1 ul li:hover {
+    background-color:#87cff0;
+}
+
+.panel-body1 ul li a{
+    color:white;
+    text-decoration: none; 
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+}
+.panel-body2 ul{
+    list-style: none;
+    margin-bottom: -15px;
+    padding: 5px;
+    background-color:rgb(117, 235, 21);
+    
+}
+
+.panel-body2 ul li{
+    line-height: 30px;
+}
+
+.panel-body2 ul li:hover {
+    background-color:rgb(172, 243, 114); 
+}
+
+.panel-body2 ul li a{
+    color:white;
+    text-decoration: none; 
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+}
+.line-divider{
+    margin: 0px;
+    
+}
+
+
+.add-top-margin{
+    background-color: white;
+    padding-top: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+   
+}
+
+.btadd-ad {
+    width: 900px !important;
+    height: 90px !important;
+}
+
+/*.........................../add page............................*/
+
+
+/*...........................allad page............................*/
+
+.search-block-alladd {
+    margin-top: 0px;
+   padding: 20px;
+    background-color: white;
+   border-radius:  5px 5px 5px 5px;
+   margin-bottom: -15px;
+}
+
+/*.........................../allad page............................*/
+
+
+
+/*............................register..................................*/
+
+/*.label-frone label{
+    text-align:right;
+    margin: 15px 0;
+    font-size: 20px;
+    font-weight: lighter;
+    
+}
+.textbox-frone{
+    font-size: 20px;
+    float: right;
+    
+}
+.textbox-frone input[type=text]{
+    width: 60%;
+     margin: 12px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+}
+
+.textbox-frone select{
+    width: 20%;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+} 
+
+select:focus{
+    outline: none;
+}
+
+.btnreg-frone {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 17px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    margin-left: 300px;
+}
+ .btnreg-frone:hover {opacity: 0.6}
+
+ .form-one {
+     background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+ }*/
+
+
+/*............................/register..................................*/
+
+
+
+/*............................Verification.....................................*/
+
+/*.label-frtwo label{
+    float:right;
+    margin: 15px 0;
+    font-size: 20px;
+    font-weight: lighter;
+    
+}
+.textbox-frtwo{
+    font-size: 20px;
+    float: right;
+    
+}
+.textbox-frtwo input[type=text]{
+    width: 60%;
+     margin: 12px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+}
+
+.btnsub-frtwo {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 17px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    margin-left: 265px;
+}
+ .btnsub-frtwo:hover {opacity: 0.6}
+
+.form-two {
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+     height: 500px;
+}*/
+
+
+/*............................/Verification.....................................*/
+
+
+
+
+/*.............................AddProperty.....................................*/
+
+
+
+.label-frfour label{
+
+    margin: 15px 0;
+    font-size: 20px;
+    font-weight: lighter;
+    
+}
+.textbox-frfour{
+    font-size: 20px;
+  
+    
+}
+.textbox-frfour input[type=text]{
+    width: 60%;
+     margin: 12px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+}
+
+
+.textbox-frfour textarea {
+    width: 60%;
+    height: 200px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+}
+
+
+
+.textbox-frfour select{
+    width: 20%;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+} 
+
+select:focus{
+    outline: none;
+}
+
+.btnbrws-frfour {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 25px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnbrws-frfour:hover {opacity: 0.6}
+
+.btnsub-frfour {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 3px 23px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnsub-frfour:hover {opacity: 0.6}
+
+.form-four {
+    margin-top: 10px;
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+
+}
+
+/*#desc {
+    margin-top: 15px;
+}
+
+#typefrfpur {
+    margin-top: 175px;
+    margin-bottom: 0px;
+}*/
+
+
+
+/*............................./AddProperty.....................................*/
+
+
+
+/*...............................Login....................................*/
+
+/*.label-frfive label{
+
+    margin: 15px 0;
+    font-size: 20px;
+    font-weight: lighter;
+    
+}
+.textbox-frfive{
+    font-size: 20px;
+    
+}
+
+.textbox-frfive label{
+    font-size: 20px;
+    font-weight: lighter;
+}
+.textbox-frfive input[type=text]{
+    width: 60%;
+     margin: 12px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+}
+
+.btnlog-frfive {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 17px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+ .btnlog-frfive:hover {opacity: 0.6}
+
+ .form-five {
+    margin-top: 10px;
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+     height: 500px;
+}*/
+
+
+/*.............................../Login....................................*/
+
+
+
+/*...............................form6......................................*/
+
+
+
+.label-frsix label{
+
+    margin: 15px 0;
+    font-size: 20px;
+    font-weight: lighter;
+    
+}
+.textbox-frsix{
+    font-size: 20px;
+  
+    
+}
+.textbox-frsix input[type=text]{
+    width: 60%;
+     margin: 12px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+}
+
+
+.textbox-frsix textarea {
+    width: 60%;
+    height: 200px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+}
+
+
+
+.textbox-frsix select{
+    width: 20%;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+} 
+
+select:focus{
+    outline: none;
+}
+
+.btnbrws-frsix {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 25px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnbrws-frsix:hover {opacity: 0.6}
+
+.btnsub-frsix {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 3px 23px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnsub-frsix:hover {opacity: 0.6}
+
+.form-six {
+    margin-top: 10px;
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+
+}
+
+#desc {
+    margin-top: 15px;
+}
+
+
+
+
+/*.............................../form6......................................*/
+
+
+
+/*...............................AddService.....................................*/
+
+.label-frseven label{
+
+    margin: 15px 0;
+    font-size: 20px;
+    font-weight: lighter;
+    
+}
+.textbox-frseven{
+    font-size: 20px;
+  
+    
+}
+.textbox-frseven input[type=text]{
+    width: 60%;
+     margin: 12px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+}
+
+
+.textbox-frseven textarea {
+    width: 60%;
+    height: 200px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+}
+
+
+
+.textbox-frseven select{
+    width: 20%;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+} 
+
+select:focus{
+    outline: none;
+}
+
+.btnbrws-frseven {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 25px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnbrws-frseven:hover {opacity: 0.6}
+
+.btnsub-frseven {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 3px 23px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnsub-frseven:hover {opacity: 0.6}
+
+.btnlabel-frseven {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.form-seven {
+    margin-top: 10px;
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+
+}
+
+#desc {
+    margin-top: 15px;
+}
+
+
+
+#address-frseven {
+    margin-bottom: 20px !important;
+}
+
+/*.............................../AddService.....................................*/
+
+
+/*................................form8......................................*/
+
+
+.label-freght label{
+
+    margin: 15px 0;
+    font-size: 20px;
+    font-weight: lighter;
+    
+}
+.textbox-freght{
+    font-size: 20px;
+  
+    
+}
+.textbox-freght input[type=text]{
+    width: 60%;
+     margin: 12px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+}
+
+
+.textbox-freght textarea {
+    width: 60%;
+    height: 200px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+}
+
+
+
+.textbox-freght select{
+    width: 20%;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+} 
+
+select:focus{
+    outline: none;
+}
+
+.btnbrws-freght {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 25px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnbrws-freght:hover {opacity: 0.6}
+
+.btnsub-freght {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 3px 23px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnsub-freght:hover {opacity: 0.6}
+
+.btnlabel-freght {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.form-eght {
+    margin-top: 10px;
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+
+}
+
+
+
+
+/*................................/form8......................................*/
+
+
+
+/*.................................EditProfile......................................*/
+
+
+.label-frten label{
+
+    margin: 15px 0;
+    font-size: 20px;
+    font-weight: lighter;
+    
+}
+.textbox-frten{
+    font-size: 20px;
+  
+    
+}
+.textbox-frten input[type=text]{
+    width: 60%;
+     margin: 12px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+}
+
+
+.textbox-frten textarea {
+    width: 60%;
+    height: 200px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+}
+
+
+
+.btnbrws-frten {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 25px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnbrws-frten:hover {opacity: 0.6}
+
+.btnsub-frten {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 3px 23px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnsub-frten:hover {opacity: 0.6}
+
+.btnlabel-frten {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.form-ten {
+    margin-top: 10px;
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+
+}
+
+/*#desc-frten {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+#name-frten {
+    margin-top: 75px;
+}
+
+#primage-ten {
+    margin-top: 180px !important;
+}*/
+
+/*................................./EditProfile......................................*/
+
+
+
+/*.................................EditDetails........................................*/
+
+
+
+.label-frelvn label{
+
+    margin: 13px 0;
+    font-size: 20px;
+    font-weight: lighter;
+    
+}
+.textbox-frelvn{
+    font-size: 20px;
+ 
+}
+.textbox-frelvn input[type=text]{
+    width: 60%;
+     margin: 12px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+}
+
+
+.btnsub-frelvn {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 23px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnsub-frelvn:hover {opacity: 0.6}
+
+
+.form-elvn {
+    margin-top: 10px;
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+     height: 500px;
+}
+
+
+
+/*................................/EditDetails........................................*/
+
+
+
+/*.................................property1.....................................*/
+
+
+/*
+.user-prp {
+    font-size: 20px;
+    padding: 5px;
+   
+}
+
+.btnap-prp1 {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 25px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnap-prp1:hover {opacity: 0.6}
+
+.btned-prp1 {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 3px 28px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btned-prp1:hover {opacity: 0.6}
+
+.prpone {
+    margin-top: 10px;
+    background-color: white;
+    padding: 40px 10px 40px 10px;
+    border-radius: 5px;
+}
+
+.prpone span {
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.prp1-landimg {
+    width: 120px;
+    height: 80px;
+}
+
+.btnprp1-delete {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 15px;
+    text-align: center;
+    font-size: 12px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnprp1-delete:hover {opacity: 0.6}
+
+
+.btnprp1-edit {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 20px;
+    text-align: center;
+    font-size: 12px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnprp1-edit:hover {opacity: 0.6}
+
+
+
+.btnprp1-view {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 20px;
+    text-align: center;
+    font-size: 12px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnprp1-view:hover {opacity: 0.6}
+
+.prp1des {
+    margin-top: 20px;
+}*/
+
+
+/*................................./property1.....................................*/
+
+
+
+/*..................................property2.....................................*/
+
+
+/*.prfimg-prp2 {
+    width: 150px;
+    height: 150px;
+}
+
+.prdes-prp2 {
+    padding-left: 30px !important;
+    padding-top: 60px;
+}
+
+.prptwo {
+    margin-top: 10px;
+    background-color: white;
+    padding: 40px 10px 40px 10px;
+    border-radius: 5px;
+}
+
+.prptwo span {
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+
+.btnep-prp2 {
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 25px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnep-prp2:hover {opacity: 0.6}
+
+.btnap-prp2 {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 3px 28px;
+    text-align: center;
+    font-size: 20px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnap-prp2:hover {opacity: 0.6}
+
+
+.prp2-landimg {
+    width: 120px;
+    height: 80px;
+}
+
+.btnprp2-delete {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 15px;
+    text-align: center;
+    font-size: 12px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnprp2-delete:hover {opacity: 0.6}
+
+
+.btnprp2-edit {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 20px;
+    text-align: center;
+    font-size: 12px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnprp2-edit:hover {opacity: 0.6}
+
+
+
+
+.btnprp2-view {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 20px;
+    text-align: center;
+    font-size: 12px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnprp2-view:hover {opacity: 0.6}
+
+.prp2-saleline select{
+    
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: white;
+    padding: 3px 6px;
+    background-color: #2db9fa;
+    font-size: 12px;
+    border: 1px solid #2db9fa;
+} 
+
+select:focus{
+    outline: none;
+}
+
+.btnprp2-con {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 10px;
+    text-align: center;
+    font-size: 12px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnprp2-con:hover {opacity: 0.6}*/
+
+
+
+
+/*................................../property2.....................................*/
+
+
+
+/*...........................public...........................*/
+
+		/*<!--sidebar-->*/
+.side{
+    float:right;
+}
+.contact {
+    padding-top: 40px;
+    padding-right: 0px !important;
+}
+#contactno{
+    font-size: 25px;
+}
+.address{
+    font-size: 18px;  
+}
+#addr{
+    margin-bottom: 25px;
+}
+.cdetails{
+    margin-bottom: 100px;
+}
+.cdetails input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+
+
+.cdetails textarea {
+    width: 100%;
+    height: 200px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color:white;
+    font-size: 16px;
+    resize: none;
+}
+.contact hr {
+	display: block;
+    height: 10px;
+    border: 0;
+    border-top: 2px solid #ccc;
+    
+    padding: 0; 
+    width: 160px;
+    margin: 0px;
+}
+#fname{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    background-color:white;
+    border-radius:4px; 
+    color: black;
+}
+.cdetails textarea {
+    width: 100%;
+    height: 200px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+}
+.advrts {
+	margin-top: 60px;
+}
+
+
+/*send button*/
+  .btnsend{
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 6px 40px;
+    text-align: center;
+    font-size: 14px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    float: right;
+    width: 130px !important;
+  }
+
+  .btnsend:hover {opacity: 0.6}
+
+/*search button*/
+    .btnsearch{
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 17px;
+    text-align: center;
+    font-size: 20px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    width: 100%;
+  }
+
+    .btnsearch:hover {opacity: 0.6}
+
+/*post button*/
+  .btnpost {
+    background-color:#2db9fa;
+    border: none;
+    color: white;
+    padding: 3px 17px;
+    text-align: center;
+    font-size: 20px;
+    margin: 4px 2px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    width: 100%;
+    
+    
+  }
+  
+  .btnpost:hover {opacity: 0.6}
+
+
+/*.................................footer...................................*/
+.footer{
+    text-align: center;
+    color:gray;
+    background-color: white !important;
+    font-size: 13pt !important;
+}
+.footer-title h3{
+    margin-top: 35px;
+    font-size: 13pt !important;
+}
+.links a{
+    color: #8bba19!important;
+}
+
+/*account button*/
+.buttonacc {
+    padding: 2px 3px 2px 3px;
+    text-align: center;
+    text-decoration: none;
+    /*display: inline-block;*/
+    font-size: 16px;
+   margin-top: 9px;
+    cursor: pointer;
+    font-size: 12px;
+    background-color: #8bba19; 
+    color: white; 
+    border: 1px solid white;
+    border-radius: 5px;
+    transition: .7s;
+}
+
+.buttonacc:hover {
+    background-color: white;
+    color: #2db9fa;
+    border: 1px solid #8bba19;
+}
+
+
+
+
+.w3-row-padding, .w3-row-padding>.w3-half, .w3-row-padding>.w3-third, .w3-row-padding>.w3-twothird, .w3-row-padding>.w3-threequarter, .w3-row-padding>.w3-quarter, .w3-row-padding>.w3-col {
+    padding: 0 5px;
+}
+
+/*boxad*/
+.boxad {
+	margin-top: 60px;
+    margin-left: 0px;
+}
+
+/*.........................../public...........................*/
+
+
+/* navbar styles */
+
+.navbar{
+    background-color:#8bba19 !important;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
+
+.lang{
+    border: 1px solid #fff;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: inline-block;
+    float: right;
+}
+.lang .lang-type span{
+    font-size: 7pt;
+    color: #fff;
+}
+.lang .lang-type{
+    cursor: pointer;
+    display: inline-block;
+    float: left;
+    padding: 0 5px;
+}
+.lang .lang-type:hover{
+    background: #fff;
+    transition: .5s .2s;
+}
+.lang .lang-type:first-child {
+    border-right: 1px solid #fff;
+}
+ .link a span {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 10pt;
+    color: #fff;
+}
+
+.navbar-brand{
+    padding-top:7px!important;
+    
+}
+.nav>li{
+    margin:2px;
+   
+}
+.nav-holder{
+
+}
+.navbar-default{
+    border:none!important;
+}
+/* css for acc1 service info */
+
+.image-container{
+    padding: 0px;
+}
+.image-container-info h3{
+    margin:3px!important;
+}
+
+.image-panel-chooser{
+    padding-left:0px!important;
+    padding-top:10px;
+}
+.info-holder{
+    height:700px;
+}
+
+.single-view{
+    display: none;
+}
+
+.top{
+padding-right: 0px!important;
+padding-left: 0px!important;
+}
+.bonus{
+    padding-right: 0px!important;
+    padding-left: 0px!important;
+}
+
+
+
+/* css styles for acc1page */
+
+.info-card-box{
+
+    display: none;
+}
+
+/* css styles for profile page */
+
+.custom-md{
+    text-align: center;
+}
+
+.custom-view{
+    text-align: center;
+}
+.content{
+    text-align: center;
+}
+
+
+
+/* media queries */
+@media only screen and (max-width: 767px) {
+    .container {
+        width: 100%!important;
+       
+    }
+    .searchbox{
+        text-align: center;
+        margin-bottom: 5px;
+    }
+    .link{
+        text-align: center;
+    }
+    .lang{
+        float:none;
+    }
+    .boxad{
+       
+        display: inline!important;
+    }
+    .advrts{
+        text-align: center;
+    }
+    .single-view{
+        display: inline;
+    }
+    .boxad{
+        margin-top: 15px;
+    }
+    .info-card-box{
+        display: block;
+    }
+    #toppaid {
+        float: none;
+        margin-top: 0px; ;
+        padding: 0px; 
+      
+       
+
+    }
+    #bonus {
+        float: none;
+        margin-top: 0px; 
+        padding: 0px; 
+        margin-top: -5px!important;
+        
+        
+    }
+    
+    .bgimage{
+        height: auto;
+    }
+
+    .side{
+        text-align: center;
+    }
+
+}
+
+@media only screen and (max-width: 855px) {
+.nav-holder{
+    width:100% !important;
+}
+}
+
+@media only screen and (max-width: 500px) {
+    .nav-holder{
+        width:100% !important;
+    }
+    }
+    
+@media only screen and (max-width: 992px) {
+.image-container{
+   padding-right:0px!important; 
+   
+    
+}
+
+.to{
+    padding-right: 15px!important;
+    padding-left: 15px!important;
+    }
+
+ .bonu{
+        padding-right: 15px!important;
+        padding-left: 15px!important;
+}
+
+.imager{
+
+    margin-bottom: 10px;
+}
+
+.single-view{
+    display: inline;
+}
+
+.hrprofile {
+    
+    width:auto;
+}
+    
+#toppaid {
+    float: none;
+    margin-top: 0px; ;
+    padding: 0px; 
+  
+   
+
+}
+#bonus {
+    float: none;
+    margin-top: 0px; 
+    padding: 0px; 
+    margin-top: -5px!important;
+    
+    
+}
+
+.info-card-box{
+    display: block;
+}
+
+.image-panel-chooser{
+    height: 0px;
+    padding-right:0px!important;
+    padding-top:10px;
+    display: none;
+}
+
+.service-contact{
+    height: 316px;
+}
+    }
+    @media only screen and (max-width: 992px) {
+        .thumb{
+            max-width: 100%;
+        }
+        .boxad{
+        display: inline!important;
+        }
+
+        #membername{
+            margin-left: 15px;
+        }
+        
+         }
+ @media only screen and (min-width:900px) and (max-width: 992px) {
+.info-holder{
+    height:737px;
+}
+
+
+ }
+ @media only screen and (min-width:700px) and (max-width: 899px) {
+    .info-holder{
+        height:675px;
+    }
+     }
+ @media only screen  and (min-width:665px) and (max-width: 765px) {
+        .info-holder{
+            height:800px;
+        }
+         }
+ @media only screen  and (min-width:500px) and (max-width: 664px) {
+            .info-holder{
+                height:665px;
+ }
+
+ .bgimage{
+    height: 300px;
+}
+ } 
+
+  @media only screen  and (min-width:200px) and (max-width: 500px) {
+    .info-holder{
+        height:450px;
+}
+}
+.lang-type span:hover{
+
+    color: #2db9fa;
+}
+
+.navbar-nav>li>a span:hover {
+ text-decoration: underline;
+
+}
+.uppertitle {
+    text-align: center;
+}
+
+
+
+
+
+/*.............................AddProperty.....................................*/
+
+
+
+.label-frfour label{
+
+    margin: 5px 0 !important;
+    font-size: 16px;
+    font-weight: lighter;
+    
+}
+.textbox-frfour{
+    font-size: 16px;
+  
+}
+
+.label-frfour{
+    text-align: right;
+}
+
+.textbox-frfour input[type=text]{
+    width: 450px;
+     margin: 5px 0 !important;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc !important;
+}
+
+
+.textbox-frfour textarea {
+    width: 450px;
+    height: 200px !important;
+    margin: 5px 0px 0px 0px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+}
+
+
+
+.textbox-frfour select{
+    width: 200px;
+    margin: 5px 0 !important;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 5px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc;
+} 
+
+select:focus{
+    outline: none;
+}
+
+.btnbrws-frfour {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 6px 25px;
+    text-align: center;
+    font-size: 14px;
+    margin: 8px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnbrws-frfour:hover {opacity: 0.6}
+
+.btnsub-frfour {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 6px 23px;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnsub-frfour:hover {opacity: 0.6}
+
+.form-four {
+    margin-top: 10px;
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+     padding-bottom: 50px;
+     padding-top: 50px;
+}
+
+/*#desc {
+    margin-top: 15px;
+}
+
+#typefrf0ur {
+    margin-top: 175px;
+    margin-bottom: 0px;
+}*/
+
+@media only screen and (max-width: 1023px) and (min-width: 300px)  {
+ .textbox-frfour input[type=text]{
+    width: 100%;
+     margin: 1px 0;
+   
+}
+
+.label-frfour{
+    text-align: left;
+}
+
+.form-four {
+    margin-top: 10px;
+     height: 100%;
+     padding-top: 20px;
+}
+
+
+
+.textbox-frfour textarea{
+    width: 100%;
+}
+}
+
+/*@media only screen and (max-width: 1024px) and (min-width: 760px){
+.form-four {
+   
+     height: 1000px;
+}*/
+
+@media only screen and (max-width: 500px) and (min-width: 300px){
+    .btnbrws-frfour{
+        width: 100%;
+    }
+    .btnsub-frfour{
+         width: 100%;
+    }
+
+    .textbox-frfour select {
+        width: 100%;
+    }
+}
+
+
+/*............................./AddProperty.....................................*/
+
+/*...............................AddService.....................................*/
+
+.label-frseven label{
+
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: lighter;
+    
+}
+.textbox-frseven{
+    font-size: 16px;
+  
+    
+}
+.textbox-frseven input[type=text]{
+    width:450px;
+    margin: 5px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc;
+}
+
+
+.textbox-frseven textarea {
+    width: 450px;
+    height: 200px;
+    padding: 12px 20px;
+    margin: 5px 0px 0px 0px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+}
+
+
+
+.textbox-frseven select{
+    width: 200px;
+    margin: 5px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 6px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc;
+} 
+
+select:focus{
+    outline: none;
+}
+
+.btnbrws-frseven {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 5px 23px;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px 20px 0px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnbrws-frseven:hover {opacity: 0.6}
+
+.btnsub-frseven {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnsub-frseven:hover {opacity: 0.6}
+
+.btnlabel-frseven {
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.label-frseven {
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: right;
+}
+
+.form-seven {
+    margin-top: 10px;
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+     padding-top: 50px;
+     padding-bottom: 50px;
+
+}
+
+@media only screen and (max-width: 1023px) and (min-width: 300px)  {
+ .textbox-frseven input[type=text]{
+    width: 100%;
+     margin: 1px 0;
+   
+}
+
+.label-frseven{
+    text-align: left;
+}
+
+.form-seven {
+    margin-top: 10px;
+     height: 100%;
+     padding-top: 20px;
+     padding-bottom: 20px;
+}
+
+
+
+.textbox-frseven textarea{
+    width: 100%;
+}
+}
+
+/*@media only screen and (max-width: 1024px) and (min-width: 760px){
+.form-four {
+   
+     height: 1000px;
+}*/
+
+@media only screen and (max-width: 500px) and (min-width: 300px){
+    .btnbrws-frseven{
+        width: 100%;
+    }
+    .btnsub-frseven{
+         width: 100%;
+    }
+
+    .textbox-frseven select {
+        width: 100%;
+    }
+}
+
+/*.............................../AddService.....................................*/
+
+/*.................................EditDetails........................................*/
+
+
+
+.label-frelvn label{
+
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: lighter;
+    
+}
+.textbox-frelvn{
+    font-size: 16px;
+ 
+}
+.textbox-frelvn input[type=text]{
+    width: 450px;
+     margin: 5px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc;
+}
+
+
+.btnsub-frelvn {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 5px 23px;
+    text-align: center;
+    font-size: 14px;
+    margin: 8px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnsub-frelvn:hover {opacity: 0.6}
+
+
+.form-elvn {
+    margin-top: 10px;
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+     height: 500px;
+     padding-top: 100px;
+}
+
+.label-frelvn {
+    text-align: right;
+}
+
+@media only screen and (max-width: 1023px) and (min-width: 300px)  {
+ .textbox-frelvn input[type=text]{
+    width: 100%;
+     margin: 1px 0;
+   
+}
+
+.label-frelvn {
+    text-align: left;
+}
+
+.form-elvn {
+    margin-top: 10px;
+     height: 100%;
+     padding-top: 20px;
+     padding-bottom: 20px;
+}
+
+
+}
+
+/*@media only screen and (max-width: 1024px) and (min-width: 760px){
+.form-four {
+   
+     height: 1000px;
+}*/
+
+@media only screen and (max-width: 500px) and (min-width: 300px){
+ 
+    .btnsub-frelvn{
+         width: 100%;
+    }
+
+
+}
+
+
+
+
+/*................................/EditDetails........................................*/
+
+/*.................................EditProfile......................................*/
+
+
+.label-frten label{
+
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: lighter;
+    
+}
+.textbox-frten{
+    font-size: 16px;
+  
+    
+}
+.textbox-frten input[type=text]{
+    width: 450px;
+     margin: 5px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc;
+}
+
+
+.textbox-frten textarea {
+    width: 450px;
+    height: 200px;
+    padding: 12px 20px;
+    margin: 5px 0px 0px 0px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+}
+
+
+
+.btnbrws-frten {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px 20px 0px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnbrws-frten:hover {opacity: 0.6}
+
+.btnsub-frten {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 5px 23px;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnsub-frten:hover {opacity: 0.6}
+
+.btnlabel-frten {
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.form-ten {
+    margin-top: 10px;
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+     padding-top: 50px;
+     padding-bottom: 50px;
+}
+
+.label-frten {
+    text-align: right;
+}
+
+@media only screen and (max-width: 1023px) and (min-width: 300px)  {
+ .textbox-frten input[type=text]{
+    width: 100%;
+     margin: 1px 0;
+   
+}
+
+.label-frten {
+    text-align: left;
+}
+
+.form-ten {
+    margin-top: 10px;
+     height: 100%;
+     padding-top: 20px;
+     padding-bottom: 20px;
+}
+
+
+
+.textbox-frten textarea{
+    width: 100%;
+}
+}
+
+/*@media only screen and (max-width: 1024px) and (min-width: 760px){
+.form-four {
+   
+     height: 1000px;
+}*/
+
+@media only screen and (max-width: 500px) and (min-width: 300px){
+    .btnbrws-frten{
+        width: 100%;
+    }
+    .btnsub-frten{
+         width: 100%;
+    }
+
+    .textbox-frseven select {
+        width: 100%;
+    }
+}
+
+/*................................./EditProfile......................................*/
+
+/*...............................form6......................................*/
+
+
+
+.label-frsix label{
+
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: lighter;
+    
+}
+.textbox-frsix{
+    font-size: 16px;
+}
+.textbox-frsix input[type=text]{
+    width: 450px;
+     margin: 5px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc;
+}
+
+
+.textbox-frsix textarea {
+    width: 450px;
+    height: 200px;
+    padding: 12px 20px;
+    margin: 5px 0px 0px 0px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+}
+
+
+
+.textbox-frsix select{
+    width: 200px;
+    margin: 5px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 6px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc;
+} 
+
+select:focus{
+    outline: none;
+}
+
+.btnbrws-frsix {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnbrws-frsix:hover {opacity: 0.6}
+
+.btnsub-frsix {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 5px 23px;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnsub-frsix:hover {opacity: 0.6}
+
+.form-six {
+    margin-top: 10px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.label-frsix {
+    text-align: right;
+}
+
+@media only screen and (max-width: 1023px) and (min-width: 300px)  {
+ .textbox-frsix input[type=text]{
+    width: 100%;
+     margin: 1px 0;
+   
+}
+
+.label-frsix {
+    text-align: left;
+}
+
+.form-six {
+    margin-top: 10px;
+     height: 100%;
+     padding-top: 20px;
+     padding-bottom: 20px;
+}
+
+
+
+.textbox-frsix textarea{
+    width: 100%;
+}
+}
+
+/*@media only screen and (max-width: 1024px) and (min-width: 760px){
+.form-four {
+   
+     height: 1000px;
+}*/
+
+@media only screen and (max-width: 500px) and (min-width: 300px){
+    .btnbrws-frsix{
+        width: 100%;
+    }
+    .btnsub-frsix{
+         width: 100%;
+    }
+
+    .textbox-frsix select {
+        width: 100%;
+    }
+}
+
+/*.............................../form6......................................*/
+
+/*................................form8......................................*/
+
+
+.label-freght label{
+
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: lighter;
+    
+}
+.textbox-freght{
+    font-size: 16px;
+  
+    
+}
+.textbox-freght input[type=text]{
+    width: 450px;
+     margin: 5px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc;
+}
+
+
+.textbox-freght textarea {
+    width: 450px;
+    height: 200px;
+    padding: 12px 20px;
+    margin: 5px 0px 0px 0px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+}
+
+
+
+.textbox-freght select{
+    width: 200px;
+    margin: 5px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 6px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc;
+} 
+
+select:focus{
+    outline: none;
+}
+
+.btnbrws-freght {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px 20px 0px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnbrws-freght:hover {opacity: 0.6}
+
+.btnsub-freght {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 5px 23px;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnsub-freght:hover {opacity: 0.6}
+
+.btnlabel-freght {
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.form-eght {
+    margin-top: 10px;
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+     padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.label-freght {
+    text-align: right;
+}
+
+
+@media only screen and (max-width: 1023px) and (min-width: 300px)  {
+ .textbox-freght input[type=text]{
+    width: 100%;
+     margin: 1px 0;
+   
+}
+
+.label-freght {
+    text-align: left;
+}
+
+.form-eght {
+    margin-top: 10px;
+     height: 100%;
+     padding-top: 20px;
+     padding-bottom: 20px;
+}
+
+
+
+.textbox-freght textarea{
+    width: 100%;
+}
+}
+
+/*@media only screen and (max-width: 1024px) and (min-width: 760px){
+.form-four {
+   
+     height: 1000px;
+}*/
+
+@media only screen and (max-width: 500px) and (min-width: 300px){
+    .btnsub-freght{
+        width: 100%;
+    }
+    .btnbrws-freght{
+         width: 100%;
+    }
+
+    .textbox-freght select {
+        width: 100%;
+    }
+}
+
+/*................................/form8......................................*/
+
+/*...............................Login....................................*/
+
+.label-frfive label{
+
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: lighter;
+    
+}
+.textbox-frfive{
+    font-size: 16px;
+    
+}
+
+.textbox-frfive label{
+    font-size: 16px;
+    font-weight: lighter;
+}
+.textbox-frfive input[type=text]{
+    width: 450px;
+     margin: 5px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc;
+}
+
+.btnlog-frfive {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+        padding: 5px 23px;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+ .btnlog-frfive:hover {opacity: 0.6}
+
+ .form-five {
+    margin-top: 0px;
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+     padding-top: 100px;
+     padding-bottom: 100px;
+}
+
+.label-frfive {
+    text-align: right;
+}
+
+
+@media only screen and (max-width: 1023px) and (min-width: 300px)  {
+ .textbox-frfive input[type=text]{
+    width: 100%;
+     margin: 1px 0;
+   
+}
+
+.label-frfive {
+    text-align: left;
+}
+
+.form-five {
+    margin-top: 0px;
+    padding-top: 100px;
+     /*padding-top: 20px;*/
+     padding-bottom: 100px;
+}
+
+.topad {
+        width: 100%;
+      
+    }
+
+.textbox-freght textarea{
+    width: 100%;
+}
+}
+
+/*@media only screen and (max-width: 1024px) and (min-width: 760px){
+.form-four {
+   
+     height: 1000px;
+}*/
+
+@media only screen and (max-width: 500px) and (min-width: 300px){
+    .btnlog-frfive{
+        width: 100%;
+    }
+    .btnbrws-freght{
+         width: 100%;
+    }
+
+    .textbox-freght select {
+        width: 100%;
+    }
+
+    .topad {
+        width: 100%;
+      /*margin-right: 5px !important;*/
+    }
+    .adverticemnt {
+    min-height: 30px!important;
+    }
+}
+
+
+/*.............................../Login....................................*/
+
+
+/*..................................property2.....................................*/
+
+
+.prfimg-prp2 {
+    width: 150px;
+    height: 150px;
+}
+
+.prdes-prp2 {
+    padding-left: 0px !important;
+    padding-top: 60px;
+}
+
+.m-name-prp2 {
+    margin: 5px 20px;
+}
+
+.prptwo {
+    margin-top: 10px;
+    background-color: white;
+    padding: 40px 10px 40px 10px;
+    border-radius: 5px;
+}
+
+.prptwo span {
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+
+.btnep-prp2 {
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 6px 30px;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px 20px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnep-prp2:hover {opacity: 0.6}
+
+.btnap-prp2 {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 6px 25px;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px -15px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnap-prp2:hover {opacity: 0.6}
+
+
+.prp2-landimg {
+    width: 120px;
+    height: 80px;
+}
+
+.btnprp2-delete {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 5px 0px;
+    text-align: center;
+    font-size: 14px;
+    margin: 8px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 95% !important;
+    
+}
+.btnprp2-delete:hover {opacity: 0.6}
+
+
+.btnprp2-edit {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 5px 0px;
+    text-align: center;
+    font-size: 14px;
+    margin: 8px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 95% !important;
+    
+}
+.btnprp2-edit:hover {opacity: 0.6}
+
+
+
+
+.btnprp2-view {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 5px 0px;
+    text-align: center;
+    font-size: 14px;
+    margin: 8px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 95% !important;
+    
+}
+.btnprp2-view:hover {opacity: 0.6}
+
+.prp2-saleline select{
+    
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 10px;
+    background-color: #2db9fa;
+    font-size: 14px;
+    border: 0px solid #2db9fa;
+} 
+
+select:focus{
+    outline: none;
+}
+
+.btnprp2-con {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    font-size: 14px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnprp2-con:hover {opacity: 0.6}
+
+.btnp {
+    padding: 0px !important;
+    margin: 0px;
+}
+
+
+@media only screen and (max-width: 1023px) and (min-width: 500px)  {
+
+.idspan span {
+    visibility: hidden;
+}
+.prp2-landimg {
+    width: 100%;
+    padding-right: 0px !important;
+    height: 100%;
+}
+.m-name-prp2 {
+    margin: 5px 40px;
+}
+.btnep-prp2 {
+    margin: 5px 40px;
+}
+.btnap-prp2 {
+    margin: 5px -35px;
+}
+.prp2-saleline select{
+    padding: 5px 0px;
+    
+} 
+.btnprp2-con {
+    padding: 5px 10px;
+}
+
+}
+
+@media only screen and (max-width: 1279px) and (min-width: 1024px){
+     .prfimg-prp2 {
+    width: 100%;
+    height: 100%;
+}
+
+.prdes-prp2 {
+    padding-top: 35px;
+}
+.prp2-saleline select{
+    padding: 5px 0px;
+    
+} 
+.btnprp2-con {
+    padding: 5px 10px;
+}
+}
+
+@media only screen and (max-width: 500px) and (min-width: 250px){
+   .prfimg-prp2 {
+    width: 100%;
+    height: 100%;
+}
+   .btnep-prp2 {
+       width: 100%;
+       margin: 5px -8px;
+   } 
+   .btnap-prp2 {
+       width: 100%;
+       margin: 5px -8px;
+   }
+
+   .prdes-prp2 {
+    padding-left: 30px !important;
+    padding-top: 30px;
+}
+    .prp2des {
+        visibility: hidden;
+        height:0px !important;
+    }
+    .hr-prp2sp {
+        visibility: hidden;
+        height: 0px;
+        padding: 0px !important;
+        }
+    .idspan span {
+         visibility: hidden;
+    }
+    .prp2-landimg {
+        width: 100%;
+       height: 60%;
+    }
+    .btnprp2-con{
+        width: 100%;
+        margin: 5px 0px;
+    }
+    .prp2-saleline select {
+        width: 100%;
+    }
+    .btnprp2-delete {
+        width: 95%;
+        margin: 5px 0px;
+        float: left;
+      
+    }
+    .btnprp2-edit {
+        width: 100% !important;
+        margin: 5px 0px;
+        text-align: center !important;
+    }
+    .btnprp2-view {
+        width: 95%;
+        margin: 5px 0px;
+       float: right;
+    }
+    .lsale {
+        text-align: center;
+        padding: 15px 5px 5px 5px;
+    
+    }
+}
+
+
+/*................................../property2.....................................*/
+/*.................................property1.....................................*/
+
+
+
+.user-prp {
+    font-size: 20px;
+    padding: 5px;
+   
+}
+
+.btnap-prp1 {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    font-size: 14px;
+    margin: 8px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.btnap-prp1:hover {opacity: 0.6}
+
+.btned-prp1 {
+   
+    background-color: #2db9fa;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    font-size: 14px;
+    margin: 8px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+  
+}
+
+btnprp1 {
+    padding: 0px;
+}
+
+.btned-prp1:hover {opacity: 0.6}
+
+.prpone {
+    margin-top: 10px;
+    background-color: white;
+    padding: 40px 10px 40px 10px;
+    border-radius: 5px;
+}
+
+.prpone span {
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.prp1-landimg {
+    width: 120px;
+    height: 80px;
+}
+
+.btnprp1-delete {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 15px;
+    text-align: center;
+    font-size: 12px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnprp1-delete:hover {opacity: 0.6}
+
+
+.btnprp1-edit {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 20px;
+    text-align: center;
+    font-size: 12px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnprp1-edit:hover {opacity: 0.6}
+
+
+
+.btnprp1-view {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 3px 20px;
+    text-align: center;
+    font-size: 12px;
+    margin: 8px 5px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+.btnprp1-view:hover {opacity: 0.6}
+
+.prp1des {
+    margin-top: 20px;
+}
+.btnprp1 {
+    margin-bottom: 10px;
+}
+
+
+@media only screen and (max-width: 1023px) and (min-width: 500px)  {
+    .prp1-landimg {
+    width: 100%;
+    padding-right: 0px !important;
+    height: 100%;
+}
+}
+
+@media only screen and (max-width: 1279px) and (min-width: 1024px){
+     .prp1-landimg {
+        width: 100%;
+       height: 60%;
+    }
+}
+
+
+
+@media only screen and (max-width: 500px) and (min-width: 250px){
+    .btnap-prp1 {
+        width: 100%;
+    }
+    .btned-prp1{
+        width: 100%;
+    }
+    .prp1des {
+        visibility: hidden;
+    }
+    .prp1-landimg {
+        width: 100%;
+       height: 60%;
+    }
+}
+
+
+/*................................./property1.....................................*/
+/*............................register..................................*/
+
+.label-frone label{
+    text-align:right;
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: lighter;
+    
+}
+
+.label-frone {
+    text-align: right;
+}
+
+.textbox-frone{
+    font-size: 20px;
+    float: right;
+    
+}
+.textbox-frone input[type=text]{
+    width: 450px;
+     margin: 5px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc;
+}
+
+.textbox-frone select{
+    width: 200px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc;
+} 
+
+select:focus{
+    outline: none;
+}
+
+.btnreg-frone {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    font-size: 14px;
+    margin: 10px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+  
+    
+}
+ .btnreg-frone:hover {opacity: 0.6}
+
+ .form-one {
+     background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+     padding-top: 100px;
+     padding-bottom: 100px;
+ }
+
+ @media only screen and (max-width: 1023px) and (min-width: 300px)  {
+ .textbox-frone input[type=text]{
+    width: 100%;
+     margin: 1px 0;
+   
+}
+
+.label-frone  {
+    text-align: left;
+}
+
+.form-one {
+    margin-top: 0px;
+     height: 100%;
+     padding-top: 20px;
+     padding-bottom: 20px;
+}
+.topad {
+        width: 100%;
+    }
+
+
+.textbox-freght textarea{
+    width: 100%;
+}
+}
+
+/*@media only screen and (max-width: 1024px) and (min-width: 760px){
+.form-four {
+   
+     height: 1000px;
+}*/
+
+@media only screen and (max-width: 500px) and (min-width: 300px){
+    .btnreg-frone{
+        width: 100%;
+    }
+    .btnbrws-freght{
+         width: 100%;
+    }
+
+    .textbox-frone select {
+        width: 100%;
+    }
+
+    .topad {
+        width: 100%;
+      
+    }
+    .adverticemnt {
+    min-height: 30px!important;
+    }
+}
+
+
+
+/*............................/register..................................*/
+
+
+/*............................Verification.....................................*/
+
+.label-frtwo label{
+   
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: lighter;
+    
+}
+.textbox-frtwo{
+    font-size: 16px;
+
+    
+}
+.textbox-frtwo input[type=text]{
+    width: 450px;
+     margin: 5px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+    padding: 3px 17px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid #ccc;
+}
+
+.btnsub-frtwo {
+   
+    background-color: rgb(117, 235, 21);
+    border: none;
+    color: white;
+    padding: 5px 17px;
+    text-align: center;
+    font-size: 14px;
+    margin: 5px 0px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+   
+}
+ .btnsub-frtwo:hover {opacity: 0.6}
+
+.form-two {
+    background-color: white;
+     padding: 5px;
+     border-radius: 5px;
+     padding-top: 100px;
+     padding-bottom: 100px;
+}
+
+.label-frtwo {
+    text-align: right;
+}
+
+
+@media only screen and (max-width: 1023px) and (min-width: 300px)  {
+ .textbox-frtwo input[type=text]{
+    width: 100%;
+     margin: 1px 0;
+   
+}
+
+.label-frtwo   {
+    text-align: left;
+}
+
+.form-two {
+    margin-top: 0px;
+     padding-top: 100px;
+     padding-bottom: 100px;
+}
+
+
+
+.textbox-freght textarea{
+    width: 100%;
+}
+}
+
+/*@media only screen and (max-width: 1024px) and (min-width: 760px){
+.form-four {
+   
+     height: 1000px;
+}*/
+
+@media only screen and (max-width: 500px) and (min-width: 300px){
+    .btnsub-frtwo{
+        width: 100%;
+    }
+    .btnbrws-freght{
+         width: 100%;
+    }
+
+    .textbox-frone select {
+        width: 100%;
+    }
+
+    .topad {
+        width: 100%;
+      
+    }
+    .adverticemnt {
+    min-height: 30px!important;
+    }
+}
+
+
+/*............................/Verification.....................................*/
+
+
+.hide_file {
+    position: absolute;
+    z-index: 1000;
+    opacity: 0;
+    cursor: pointer;
+    right: 0;
+    top: 0;
+    height: 100%;
+    font-size: 24px;
+    width: 100%;
+}
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+#img-upload{
+    width: 100%;
+}
+
+.file-preview {
+    border:none!important;
+
+  
+}
+.close span {
+    display :none!important;
+}
+
+.file-drop-zone {
+ 
+    margin: 10px 0px 10px -8px!important;
+   
+}
+
+
+
+
+
+/*..............................................allad-newad..............................................*/
+
+
+
+
+
+
+.img-responsive{
+padding-top: 15px;
+width: 100%;
+}
+
+.dropdown{
+	margin-top: 5px;
+}
+.leftside{
+	padding-top: 20px;
+	
+}
+
+.content{
+	background-color: white;
+	
+}
+
+.adcontent{
+	margin-bottom: 10px;
+	padding-bottom:10px;
+    text-decoration: none;
+}
+
+.adcontent:hover{
+	
+    text-decoration: none;
+}
+
+.adcontent a {
+    text-decoration: none!important;
+    color: black;
+}
+
+.adcontent a:hover {
+    text-decoration: none!important;
+    color: black;
+}
+
+*{
+     text-decoration: none !important;
+}
+
+.adsimage{
+	
+    
+	width:200px;
+	height: 140px;
+
+}
+
+
+.time{
+	text-align:right;
+}
+
+.title{
+	margin-top:10px;
+
+}
+.title span{
+	font-size: 20px;
+}
+
+.line{
+	margin-top: 10px;
+}
+
+.line-bottom {
+	margin-top: 10px;
+}
+
+
+.time span {
+	display: inline-block;
+    min-width: 20px;
+    padding: 5px 5px;
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 0.5;
+    color: #fff;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: #009ef9;
+	border-radius: 15px;
+
+	
+
+}
+
+.price {
+	font-size: 20px;
+	position: relative;
+	min-height: 1px;
+	font-weight: bold;
+   
+	position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 0px;
+}
+
+.ad {
+	padding-top: 25px;
+}
+#ddown{
+	max-width: 100px;
+}
+
+
+.detailcontent{
+	margin-left: -20px;
+    text-align: left !important;
+    line-height: 22px;
+}
+
+
+#Districs{
+    width:100%;
+    margin: 8px 0;
+    /* s */
+    /* box-sizing: border-box; */
+    border-radius: 6px;
+    color: white;
+    padding: 5px 17px;
+    background-color: #009ef9;
+    font-size: 20px;
+    border: 1px solid #ccc;
+} 
+
+#Catagory{
+    width:100%;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: black;
+    padding: 3px 17px;
+    background-color: Catagorywhite;
+    font-size: 20px;
+    border: 1px solid #ccc;
+} 
+
+
+select:focus{
+    outline: none;
+}
+
+/*selecter css*/
+.custom-select {
+	position: relative;
+	font-family: Arial;
+	margin-bottom: 10px;
+	/*width:160px;*/
+    width: 110%;
+  }
+  .custom-select select {
+	display: none; /*hide original SELECT element:*/
+  }
+  .select-selected {
+	background-color: DodgerBlue;
+    text-align: left;
+  }
+  /*style the arrow inside the select element:*/
+  .select-selected:after {
+	position: absolute;
+	content: "";
+	top: 14px;
+	right: 10px;
+	width: 0;
+	height: 0;
+	border: 6px solid transparent;
+	border-color: #fff transparent transparent transparent;
+  }
+  /*point the arrow upwards when the select box is open (active):*/
+  .select-selected.select-arrow-active:after {
+	border-color: transparent transparent #fff transparent;
+	top: 7px;
+  }
+  /*style the items (options), including the selected item:*/
+  .select-items div {
+	color: dodgerblue;
+	padding: 8px 16px;
+	border: 1px solid transparent;
+	border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+	cursor: pointer;
+	user-select: none;
+  }
+
+  .select-selected{
+	color:white;
+	padding: 8px 8px;
+	border: 1px solid transparent;
+	border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+	cursor: pointer;
+	user-select: none;
+  }
+  /*style items (options):*/
+  .select-items {
+	position: absolute;
+	/* background-color: DodgerBlue; */
+	background-color:white;
+
+	
+	top: 100%;
+	left: 0;
+	right: 0;
+	z-index: 99;
+  }
+  /*hide the items when the select box is closed:*/
+  .select-hide {
+	display: none;
+  }
+  .select-items div:hover, .same-as-selected {
+	background-color: rgba(0, 0, 0, 0.1);
+  }
+/* close select lisi */
+
+
+.pagenum{
+	text-align: center;
+}
+
+#allad{
+z-index: 10;
+float: right;
+position: absolute;
+background-color: rgb(44, 162, 216);
+margin-top: -20px;
+padding: 5px 10px;
+color: white;
+border-radius: 10px 0px 0px 0px;
+font-weight: bold;
+font-size: 12px;
+margin-left: 250px;
+}
+
+#bonasads{
+	z-index: 12;
+	float: right;
+    position: absolute;
+	margin-top: -20px;
+    padding: 5px 10px;
+    color: rgb(44, 162, 216);
+    border-radius: 10px 0px 0px 0px;
+    font-weight: bold;
+    border:2px solid  rgb(44, 162, 216);
+	font-size: 12px;
+	margin-left: 250px;
+}
+
+#allmem{
+	z-index: 10;
+margin-left: -6.5px;
+position: absolute;
+
+margin-top: -20px;
+padding: 0px 8px;
+color:  rgb(44, 162, 216);
+border-radius: 10px;
+font-weight: bold;
+font-size: 12px;
+
+}
+
+@media only screen and (max-width:992px){
+	.leftside{
+		
+		text-align:center !important;
+	}
+	
+	
+}
+
+
+@media screen and (max-width: 990px) {
+	.sideadspic{
+		display: none;
+	  }
+	 
+	  .adimg{
+		
+		margin-top: 10px;
+	
+	}
+	
+	.dropdown{
+		display: inline;
+	}
+	.detailcontent{
+		display: inline;
+
+	}
+	.housedetail{
+		display: none;	
+	}
+	
+
+	
+}
+
+
+
+
+
+
+@media only screen and (max-width:500px){
+
+	.title span{
+		font-size: 12px!important;
+			
+	}
+	.title {
+        width: 30px !important;
+    }
+
+	.title p{
+		font-size: 12px!important;
+	}
+	.price p{
+		font-size: 12px!important;
+	}
+	
+	.detailcontent{
+		line-height: 14px;
+		padding-top: 15px;
+		margin-left: -15px;
+	
+	}
+	.time span{
+		padding: 5px 5px;
+		font-size: 8px;
+		font-weight:lighter;
+		z-index: 10;
+		margin-top: -24px;
+	}
+	.line-bottom{
+		margin: 0px;
+	}
+	.custom-select{
+		width: 100%!important;
+		text-align: center;
+	
+	}
+	#bonasads{
+		margin-left: 90px;
+		padding: 2px 5px;
+		font-size: 6px !important;
+	}
+	#allad{
+		margin-left: 90px;
+		padding: 2px 5px;
+		font-size: 6px !important;
+	}
+	}
+
+
+	
+
+@media only screen and (max-width:800px)and (min-width:600px) {
+	.detailcontent{
+	 padding-top: 10px;
+	 margin-left:0px !important;
+	 
+}
+.custom-select{
+	width: 100% !important;
+	margin-top: 7px;
+	
+}
+
+.title span{
+font-size: 14px !important;
+}
+
+.price p{
+    font-size: 14px !important;
+}
+
+#bonasads{
+		margin-left: 170px;
+		padding: 2px 5px;
+		
+	}
+	#allad{
+		margin-left: 170px;
+		padding: 2px 5px;
+		
+	}
+
+}
+@media only screen and (max-width:1025px)and (min-width:800px) {
+
+	.detailcontent{
+		margin-left:0 !important;
+		line-height: 15px !important;
+		padding-top: 5px !important;
+        
+	}
+	.custom-select{
+		width: 130px !important;
+		margin-top:-5px !important;	
+}
+.title span{
+font-size: 14px !important;
+}
+
+.price p{
+    font-size: 14px !important;
+}
+
+}
+
+
+
+
+#lang {
+    color: black !important;
+}
+
+#lang:hover {
+    color: white !important;
+}
+
+.ad-ad {
+    margin: 0px!important;
+}
+
+.demo w3-opacity w3-hover-opacity-off {
+    padding: 0px !important;
+}
+
+.imgsl {
+    width: 16.666667%;
+    padding: 4px !important;
+}
+
+    .topadd-in {
+        margin: 20px;
+    }
+    /*.adverticemnt {
+        margin: 0px;
+    }*/
+    
+    .acc-add{
+
+        margin-top: 0px!important;
+         margin-bottom: 0px!important;
+    }
+   

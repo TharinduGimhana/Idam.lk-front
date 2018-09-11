@@ -1,0 +1,36 @@
+footer{
+  border-top: 3px solid $green1;
+  margin-top: 30px;
+  background: #E5E5E5;
+  .footer-block{
+    .footer-title{
+      h3{
+        @extend .myriadPro;
+      }
+    }
+    .links{
+      a{
+        font-size: 13pt;
+        @extend .myriadPro;
+        display: block;
+        color: #3E3E3E;
+        &:hover{
+          color: $blue1;
+          @include transition(0.3s);
+        }
+      }
+    }
+  }
+
+}
+.bottom-footer{
+  margin-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
+  strong{
+    font-size: 13pt;
+    @extend .myriadPro;
+    color: #3E3E3E;
+    font-weight: 100;
+  }
+}
